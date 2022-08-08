@@ -3,12 +3,19 @@ Training board base
 
 ## Components ##
 
+
 ### Temperature and Humidity sensor ###
- 
+
+
+### Ultrasonic sensor ###
 
 ![image](./Pictures/HC-SR04-sch.png) 
 
 ![image](./Pictures/HC-SR04-pic.jpg) 
+
+
+
+
 
 
 ## Design tool ##

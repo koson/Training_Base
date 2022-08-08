@@ -15,7 +15,7 @@ Training board base
 
 ![HC-SR04-sch](./Pictures/HC-SR04-sch.png) 
  
-![HC-SR04-pic](./Pictures/HC-SR04-pic.jpg) 
+![HC-SR04-pic](./Pictures/HC-SR04-pic.png) 
 
 
 

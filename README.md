@@ -6,7 +6,9 @@ Training board base
 ### Temperature and Humidity sensor ###
  
 
-![image](./Pictures/HC-SR04-sch.png)
+![image](./Pictures/HC-SR04-sch.png) 
+
+![image](./Pictures/HC-SR04-pic.jpg) 
 
 
 ## Design tool ##

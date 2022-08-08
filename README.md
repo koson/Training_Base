@@ -9,7 +9,7 @@ Training board base
 
 ![DHT22-sch](./Pictures/DHT22-sch.png) 
 
-![DHT22-pic](./Pictures/DHT22-pic.jpg) 
+![DHT22-pic](./Pictures/DHT22-pic.png) 
 
 ### Ultrasonic sensor ###
 

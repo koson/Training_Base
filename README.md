@@ -6,12 +6,15 @@ Training board base
 
 ### Temperature and Humidity sensor ###
 
+![DHT22-sch](./Pictures/DHT22-sch.png) 
+
+![DHT22-pic](./Pictures/DHT22-pic.jpg) 
 
 ### Ultrasonic sensor ###
 
-![image](./Pictures/HC-SR04-sch.png) 
+![HC-SR04-sch](./Pictures/HC-SR04-sch.png) 
 
-![image](./Pictures/HC-SR04-pic.jpg) 
+![HC-SR04-pic](./Pictures/HC-SR04-pic.jpg) 
 
 
 
